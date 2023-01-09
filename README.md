@@ -1,4 +1,4 @@
-### My Programming Languages
+### * My Programming Languages
 
 <!--
 **wooyoungman/wooyoungman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
