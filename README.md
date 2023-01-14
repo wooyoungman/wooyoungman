@@ -7,7 +7,7 @@
  임베디드시스템뿐만 아니라 서버,웹에도 관심이 있어 공부하고있습니다 !
  <br/>
  <br/>
-
+ <a href="https://www.notion.so/s-f1659317da504b93a53a1a77cc55eca6" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 ### 🖥️ Available Programming Languages
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
