@@ -26,7 +26,7 @@
  <img src="https://img.shields.io/badge/Jetson Nano-76B900?style=flat&logo=NVIDIA&logoColor=white"/>
  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooyoungman&show_icons=true&theme=radical)  
   
 </div>
  
