@@ -2,9 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=BAEAD6&height=150&section=header&text=JeongWooYoung&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 ### 👋 Welcome wooyoung's github !
- 안녕하세요 ! 임베디드시스템공학을 전공하고있는 학생입니다. 
- <br/>
- 임베디드시스템뿐만 아니라 서버,웹에도 관심이 있어 공부하고있습니다 !
+
  <br/>
  <br/>
  <a href="https://www.notion.so/s-f1659317da504b93a53a1a77cc55eca6" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
