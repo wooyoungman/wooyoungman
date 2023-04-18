@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=BAEAD6&height=150&section=header&text=JeongWooYoung&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=BLACK&height=150&section=header&text=JeongWooYoung&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 ### 👋 Welcome wooyoung's github !
 
  <br/>
