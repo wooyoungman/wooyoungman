@@ -17,7 +17,7 @@
  <img src="https://img.shields.io/badge/Xamarin-3498DB?style=flat&logo=Xamarin&logoColor=white"/>
   <br>
  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Xamarin&logoColor=white"/>
- <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Node.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
   <br>
  <img src="https://img.shields.io/badge/Fusion 360-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 <br/>
