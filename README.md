@@ -12,14 +12,8 @@
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-   <br>
- <img src="https://img.shields.io/badge/C%23-FF6384?style=flat&logo=Csharp&logoColor=white"/>
- <img src="https://img.shields.io/badge/Xamarin-3498DB?style=flat&logo=Xamarin&logoColor=white"/>
-  <br>
- <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Xamarin&logoColor=white"/>
- <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
-  <br>
- <img src="https://img.shields.io/badge/Fusion 360-000000?style=for-the-badge&logo=Autodesk&logoColor=white">
+
+
 <br/>
 <br/>
   
