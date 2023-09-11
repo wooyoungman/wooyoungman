@@ -3,9 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=BLACK&height=150&section=header&text=JeongWooYoung&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 ### 👋 Welcome wooyoung's github !
 
- <br/>
- <a href="https://www.notion.so/s-f1659317da504b93a53a1a77cc55eca6" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
-
  
   
 ### 🖥️ Available Programming Languages And Skills
