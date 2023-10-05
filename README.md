@@ -15,15 +15,9 @@
  <br>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
- <br>
  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
 <br/>
-<br/>
 
----
-  
-  
-### 💡 Open Source Hardware
  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white"/>
  <img src="https://img.shields.io/badge/Jetson Nano-76B900?style=flat&logo=NVIDIA&logoColor=white"/>
  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>    
